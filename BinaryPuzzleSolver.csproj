@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <RootNamespace>BinaryPuzzleSolver</RootNamespace>
+        <AssemblyName>BinaryPuzzleSolver</AssemblyName>
+        <TargetFramework>net5.0</TargetFramework>
+        <AssemblyTitle>BinaryPuzzleSolver</AssemblyTitle>
+        <Product>BinaryPuzzleSolver</Product>
+        <Description>A generator of a type of binary puzzles</Description>
+        <Copyright>Copyright © SFGrenade 2022</Copyright>
+        <AssemblyVersion>1.0.0.0</AssemblyVersion>
+        <FileVersion>1.0.0.0</FileVersion>
+        <OutputPath>bin/$(Configuration)/</OutputPath>
+        <OutputType>Exe</OutputType>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <LangVersion>latest</LangVersion>
+    </PropertyGroup>
+
+</Project>
